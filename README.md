@@ -1,7 +1,7 @@
 # Aprs4G
 
 #### 介绍
-基于LuatOS进行二次开发的lua脚本，用于将合宙EC618系列定位器设备改造成支持4G网络的APRS终端设备。硬件设备获取请关注 [中文APRS地图网站了解详情](https://aprs.tv/?todo=donate)
+基于LuatOS进行二次开发的lua脚本，用于将合宙EC618系列定位器设备改造成支持4G网络的APRS终端设备。
 
 #### 特技
 
@@ -39,5 +39,4 @@
 
 #### 鸣谢
 
-1.  本项目由BG4UVR大佬 4G-Tracker`https://gitee.com/bg4uvr/LTE-Tracker`的源码改写而来，感谢BG4UVR的源码分享。
-2.  特别感谢BA7LHF大佬在电路逆向分析方面所做的独力贡献，为广大APRS爱好者们带来了令人惊喜的玩具。在此，向他表达最深的谢意。
+1.  本项目由BG2LBF Aprs4G`https://gitee.com/ixinme/aprs4g`的源码改写而来，感谢BG2LBF的源码分享。
