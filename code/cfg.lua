@@ -5,7 +5,7 @@ local isDebug = false
 DEV_TYPE = "air780epm-yed"                   -- 定义当前要安装的设备型号（主要是区分不同主板的引脚定义，自制主板请修改对应引脚），目前已知支持 air780e/air780eg/air700/air780eg-yed/air780epm-yed
 AUDIO_VOICE_PROMPT_LEN = 0              -- 语音提示音频种类数量
 -- MQTT相关信息暂不提供web配置
-MQTT_HOST = "lte.ham.xin"
+MQTT_HOST = "lte.aprs.net.cn"
 MQTT_PORT = 11883
 MQTT_SSL = false
 MQTT_USERNAME = "aprs4gspk1"
